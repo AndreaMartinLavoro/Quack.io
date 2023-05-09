@@ -4,6 +4,8 @@ A meaningless project to avoid putting your head under water.
 ![version](https://github.com/AndreaMartinLavoro/Quack.io/assets/62328337/0d5db51e-1b91-459d-9c51-895f42aed2b7) 
 ![release](https://github.com/AndreaMartinLavoro/Quack.io/assets/62328337/ad1de672-9067-43e1-b1f0-cc3017507f88)
 
+### For the whole project we will have to wait a little bit so make sure you don't put your head under the water
+
 ## Introductory short story
 
 Once upon a time there was a little duckling who lived in a quiet pond together with other ducks similar to her. The little duck had always been happy to be like the others, bathing in the cool water and playing with her fish and frog friends. But one day, while swimming in the water, the duck looked around and noticed that all the other ducks looked exactly like her and she could not find a single difference.
