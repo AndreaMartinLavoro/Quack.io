@@ -7,9 +7,9 @@
 /* ============================================================================================= */
 
 
-const char* _ssid = "Casa Brollo";
-const char* _password = "BrolloHouseWiFi";
-const char* _serverUrl = "http://lobrol.duckdns.org/recevive_mp3/index.php";
+const char* _ssid = "WIFI SSID";
+const char* _password = "WIFI PASSWORD";
+const char* _serverUrl = "API URL";
 
 
 /* ============================================================================================= */
